@@ -10,5 +10,5 @@
 - 🔭 I’m currently working on 
 - [manray](https://github.com/devmanso/manray), a small Lua game framework for MacOSX that uses Raylib as it's backend.
 - [HyperDrive robotics' Charged Up robot](https://github.com/Team6593/ChargedUp2023)
-- [HYperDrive robotics' HyperLib](https://github.com/Team6593/HyperLib), , an MIT liscensed, open source FRC Java library
+- [HYperDrive robotics' HyperLib](https://github.com/Team6593/HyperLib), an MIT liscensed, open source FRC Java library
 
