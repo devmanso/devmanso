@@ -1,12 +1,3 @@
 
-### Github Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=devmanso)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devmanso&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-- 🔭 Cool stuff
-- [LuaGameKit](https://github.com/devmanso/LuaGameKit), a WIP lua game framework
-- [HyperDrive robotics' Charged Up robot](https://github.com/Team6593/ChargedUp2023)
-- [HyperDrive robotics' HyperLib](https://github.com/Team6593/HyperLib), an MIT liscensed, open source FRC Java library
-
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://media1.tenor.com/m/qoSlxMNid4sAAAAC/fumodance-cirno.gif');]{x0000}$}
