@@ -1,3 +1,17 @@
+\documentclass{article}
+\usepackage{xcolor}         % For text color
+\usepackage{graphicx}       % For including images
+\usepackage{tikz}           % For advanced positioning
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://media1.tenor.com/m/qoSlxMNid4sAAAAC/fumodance-cirno.gif');]{x0000}$}
+\begin{document}
+
+\begin{tikzpicture}[remember picture, overlay]
+    \node[anchor=north west, inner sep=0] at (current page.north west) {
+        \includegraphics[width=\paperwidth,height=\paperheight]{https://raw.githubusercontent.com/devmanso/devmanso/test/fumodance-cirno.gif}
+    };
+    \node[anchor=north west, inner sep=10pt] at (current page.north west) {
+        \textcolor{red}{\Huge This is a test text overlaid on the background image.}
+    };
+\end{tikzpicture}
+
+\end{document}
